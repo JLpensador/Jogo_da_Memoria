@@ -3,6 +3,7 @@
 body {
   background-image: linear-gradient(to right, rgb(231, 19, 47), rgb(0, 0, 0));
   overflow-x: hidden;
+background-attachment: fixed;
 }
 
 .login-form {
